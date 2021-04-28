@@ -24,6 +24,7 @@ setuptools.setup(
         'odoo12-addon-stock_picking_back2draft',
         'odoo12-addon-stock_picking_backorder_strategy',
         'odoo12-addon-stock_picking_batch_extended',
+        'odoo12-addon-stock_picking_batch_extended_account',
         'odoo12-addon-stock_picking_customer_ref',
         'odoo12-addon-stock_picking_filter_lot',
         'odoo12-addon-stock_picking_invoice_link',
@@ -33,6 +34,7 @@ setuptools.setup(
         'odoo12-addon-stock_picking_operation_quick_change',
         'odoo12-addon-stock_picking_package_preparation',
         'odoo12-addon-stock_picking_package_preparation_line',
+        'odoo12-addon-stock_picking_product_assortment',
         'odoo12-addon-stock_picking_purchase_order_link',
         'odoo12-addon-stock_picking_purchase_propagate',
         'odoo12-addon-stock_picking_quick',
@@ -44,6 +46,7 @@ setuptools.setup(
         'odoo12-addon-stock_picking_show_return',
         'odoo12-addon-stock_picking_whole_scrap',
         'odoo12-addon-stock_return_request',
+        'odoo12-addon-stock_shifting_end_of_lot',
         'odoo12-addon-stock_split_picking',
     ],
     classifiers=[
